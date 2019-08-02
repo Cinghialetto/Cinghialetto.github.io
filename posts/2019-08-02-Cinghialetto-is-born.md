@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cinghialetto is born!"
+title: "Cinghialetto is born"
 date: 2019-08-02
 ---
 
